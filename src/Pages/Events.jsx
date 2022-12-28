@@ -6,7 +6,7 @@ import convo2 from "../assets/convo2.jpeg"
 
 function Events() {
   return (
-    <div className='w-[100%] h-[140%] flex flex-col justify-center py-6 mx-2 content-center drop-shadow-md'>
+    <div className='w-[100%] h-[150%] flex flex-col justify-center py-6 content-center drop-shadow-md'>
 
         <h2 className='self-center text-2xl text-red-500 underline'>Events</h2>
         <a>
