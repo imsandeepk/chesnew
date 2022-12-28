@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chesnew/static/css/main.f5396f33.css",
-    "main.js": "/chesnew/static/js/main.5ebc8fae.js",
+    "main.css": "/chesnew/static/css/main.8ead32bf.css",
+    "main.js": "/chesnew/static/js/main.2050c557.js",
     "static/media/vineet.jpeg": "/chesnew/static/media/vineet.6341acad15fba395d492.jpeg",
     "static/media/team.jpg": "/chesnew/static/media/team.42314299dbe989fb00e4.jpg",
     "static/media/shoaib.jpeg": "/chesnew/static/media/shoaib.707c6c14b5b549e03b26.jpeg",
@@ -26,14 +26,16 @@
     "static/media/arif.jpeg": "/chesnew/static/media/arif.13c03b97945ec06d2440.jpeg",
     "static/media/abdur.jpeg": "/chesnew/static/media/abdur.13a3fdda0518878bdf67.jpeg",
     "static/media/tanisha.jpeg": "/chesnew/static/media/tanisha.0c98bb14b44ee40b9703.jpeg",
+    "static/media/vikram.jpeg": "/chesnew/static/media/vikram.04497a866ee4596eae30.jpeg",
     "static/media/vaibhav.jpeg": "/chesnew/static/media/vaibhav.237d59f2c73bc6c091b4.jpeg",
+    "static/media/saroha.jpeg": "/chesnew/static/media/saroha.f3b01f3159c6f13f228c.jpeg",
     "static/media/Sandeep.jpeg": "/chesnew/static/media/Sandeep.6b73779bef4d6534780a.jpeg",
     "index.html": "/chesnew/index.html",
-    "main.f5396f33.css.map": "/chesnew/static/css/main.f5396f33.css.map",
-    "main.5ebc8fae.js.map": "/chesnew/static/js/main.5ebc8fae.js.map"
+    "main.8ead32bf.css.map": "/chesnew/static/css/main.8ead32bf.css.map",
+    "main.2050c557.js.map": "/chesnew/static/js/main.2050c557.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5396f33.css",
-    "static/js/main.5ebc8fae.js"
+    "static/css/main.8ead32bf.css",
+    "static/js/main.2050c557.js"
   ]
 }
