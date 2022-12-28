@@ -20,7 +20,7 @@ import tanya from "../assets/photos/tanya.jpeg"
 import vaibhav from "../assets/photos/vaibhav.jpeg"
 import vineet from "../assets/photos/vineet.jpeg"
 import vikram from "../assets/photos/vikram.jpeg"
-import saroha from "../assets/photos/saroha.jpeg"
+import saroha from "../assets/photos/saroha.png"
 
 function Team () {
   return (
@@ -33,13 +33,12 @@ function Team () {
         <div className=' w-[50%] self-center'>
           <h1 className=' my-5 text-lg text-center text-violet-400'>Supervision</h1>
           <div className='flex flex-row'>
-          
-          <div className='flex flex-col content-center mx-10 text-center justify-center bg-white'>
-                    <img className='my-1 mx-4 rounded-3xl h-[70%]' src={vikram}/>
+          <div className='flex flex-col content-center mr-10 w-[50%] text-center justify-center bg-white'>
+                    <img className='my-1 mx-4 rounded-3xl bg-cover h-[70%]' src={saroha}/>
                     <h2 className='text-lg'>Prof. A.K Saroha</h2>
                     <h4 >Head Of Department</h4>
                     </div>
-                    <div className='flex flex-col content-center text-center justify-center bg-white'>
+                    <div className='flex flex-col w-[50%] content-center text-center justify-center bg-white'>
                     <img className='my-1 mx-4 rounded-3xl h-[70%]' src={vikram}/>
                     <h2 className='text-lg'>Prof. Vikram Singh</h2>
                     <h4 >Faculty Advisor</h4>

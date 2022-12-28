@@ -4,6 +4,8 @@ import {AiOutlineInstagram} from "react-icons/ai"
 import {AiOutlineLinkedin} from "react-icons/ai"
 import {AiOutlineFacebook} from "react-icons/ai"
 
+
+
 function Navbar() {
   return (
     <div className=' flex bg-slate-800 flex-row justify-between h-[100%] w-[100%] shadow-md '>
@@ -11,7 +13,8 @@ function Navbar() {
       <img src={logo} className=' h-24 px-4 py-4'/>
       <div className='flex flex-col justify-between self-center text-white'>
       <h1 className=' font-semibold text-orange-400 text-3xl'>ChES </h1>
-      <h1 className='text-md'>Chemical Engineering Society</h1></div>
+      <h1 className='text-md'>Chemical Engineering Society</h1>
+      </div>
       </div>
       
       <div className='flex flex-row justify-between self-center mx-10'>

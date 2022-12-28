@@ -10,7 +10,7 @@ function Newsletter() {
         <h1 className=' text-center text-lg text-violet-400'>For the month of November</h1>
           <div className='flex flex-row'>
           <div>
-        <h1>The term “forever chemicals” refers to a class of molecules that are pervasive in our daily life, including food packaging and household cleaning products. They are so named because of their propensity to persist in water and soil. Due</h1>
+        <h1>The term “forever chemicals” refers to a class of molecules that are pervasive in our daily life, including food packaging and household cleaning products. They are so named because of their propensity to persist in water and soil. Due to the fact that these chemicals don’t decompose and end up in our water and food, they may result in health issues like cancer or reduced fertility. This month</h1>
         <a href='https://chesiitd.medium.com/ches-newsletter-ac70f1bd7bc3'><h1 className=' text-blue-500'>read more</h1></a></div>
         <img className='h-20' src={logo}></img></div>
         </div>
