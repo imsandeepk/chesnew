@@ -3,7 +3,7 @@ import logo from "../assets/Logo.png"
 
 function Newsletter() {
   return (
-    <div className='w-[100%] h-[140%] flex flex-col justify-center py-6 content-center  drop-shadow-md'>
+    <div className='w-[100%] h-[140%] flex flex-col justify-center py-6 content-center bg-newsletter bg-fixed bg-cover  drop-shadow-md'>
         <h2 className='self-center text-2xl underline text-red-500 '>Newsletter</h2>
         
         <div className='px-10 py-5 flex flex-col h-[20%] border-2 mx-1 '>
