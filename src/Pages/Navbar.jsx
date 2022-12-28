@@ -6,11 +6,11 @@ import {AiOutlineFacebook} from "react-icons/ai"
 
 function Navbar() {
   return (
-    <div className=' flex bg-slate-600 flex-row justify-between h-[100%] w-[100%] shadow-md '>
+    <div className=' flex bg-slate-800 flex-row justify-between h-[100%] w-[100%] shadow-md '>
       <div className='flex flex-row'>
       <img src={logo} className=' h-24 px-4 py-4'/>
       <div className='flex flex-col justify-between self-center text-white'>
-      <h1 className=' font-semibold text-3xl'>ChES </h1>
+      <h1 className=' font-semibold text-orange-400 text-3xl'>ChES </h1>
       <h1 className='text-md'>Chemical Engineering Society</h1></div>
       </div>
       

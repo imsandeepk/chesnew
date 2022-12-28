@@ -7,13 +7,13 @@ import {AiOutlineMail} from "react-icons/ai"
 
 function Footer() {
   return (
-    <div className='flex-col text-white bg-slate-500 drop-shadow-md shadow-md mt-10'>
+    <div className='flex-col text-white bg-slate-800 drop-shadow-md shadow-md mt-10'>
     <div className='w-[100%] h-[100%] justify-evenly
-     flex align-middle flex-row bg-slate-500 '>
+     flex align-middle flex-row bg-slate-800 '>
         <div className='py-10'>
         <img src={logo} className='h-24 py-4'/>
 
-        <h1 className=' font-semibold '>When Passion is first,anything is possible</h1>
+        <h1 className=' font-semibold text-orange-400 '>When Passion is first,anything is possible</h1>
       <h1 className=' font-thin'>
         Developed and Maintained by ChES Technical Team
       </h1>

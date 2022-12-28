@@ -8,7 +8,7 @@ import Team from './Pages/Team';
 
 function App() {
   return (
-    <div >
+    <div>
     <Navbar/>
     <Hero/>
     <Events/>

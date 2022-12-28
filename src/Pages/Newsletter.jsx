@@ -4,10 +4,10 @@ import logo from "../assets/Logo.png"
 function Newsletter() {
   return (
     <div className='w-[100%] h-[140%] flex flex-col justify-center py-6 mx-2 content-center  drop-shadow-md'>
-        <h2 className='self-center text-2xl underline '>Newsletter</h2>
+        <h2 className='self-center text-2xl underline text-red-500 '>Newsletter</h2>
         
         <div className='px-10 py-5 flex flex-col h-[20%] border-2 mx-1 '>
-        <h1 className=' text-center text-lg'>For the month of November</h1>
+        <h1 className=' text-center text-lg text-violet-400'>For the month of November</h1>
           <div className='flex flex-row'>
           <div>
         <h1>The term “forever chemicals” refers to a class of molecules that are pervasive in our daily life, including food packaging and household cleaning products. They</h1>
