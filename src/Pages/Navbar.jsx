@@ -8,7 +8,7 @@ import {AiOutlineFacebook} from "react-icons/ai"
 
 function Navbar() {
   return (
-    <div className=' flex bg-slate-800 flex-row justify-between h-[100%] w-[100%] shadow-md '>
+    <div className=' flex bg-gradient-to-r from-slate-500 to-slate-900 flex-row justify-between h-[100%] w-[100%] shadow-md '>
       <div className='flex flex-row'>
       <img src={logo} className=' h-24 px-4 py-4'/>
       <div className='flex flex-col justify-between self-center text-white'>

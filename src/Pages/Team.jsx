@@ -28,7 +28,7 @@ function Team () {
     <div className=' w-[100%] h-[100%] flex-col justify-center  '>
       <h1 className='justi-center text-center text-2xl text-red-500 underline'>Our Team </h1>
             
-      <div className='flex flex-col  justify-center bg-slate-600 '>
+      <div className='flex flex-col  justify-center bg-gradient-to-b from-slate-700 to-slate-500 '>
         
         <div className=' w-[50%] self-center'>
           <h1 className=' my-5 text-lg text-center text-violet-400'>Supervision</h1>
@@ -91,7 +91,7 @@ function Team () {
 
             </div>
         </div>
-        <div className='flex flex-col h-[120%] justify-center bg-slate-600 '>
+        <div className='flex flex-col h-[120%] justify-center bg-gradient-to-b from-slate-500 to-slate-700'>
             <h1 className="self-center mb-10 text-lg text-violet-400">Executives</h1>
             <div className='grid w-[80%] self-center grid-flow-row grid-cols-4 gap-2  grid-rows-4'>
                 <div className='flex h-[70%] flex-col content-center text-center justify-center bg-white'>
