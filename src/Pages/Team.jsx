@@ -26,12 +26,12 @@ function Team () {
   return (
     
     <div className=' w-[100%] h-[100%] flex-col justify-center  '>
-      <h1 className='justi-center text-center text-2xl text-red-500 underline'>Our Team </h1>
+      <h1 className='justi-center text-center text-2xl text-red-500 font-serif underline'>Our Team </h1>
             
-      <div className='flex flex-col  justify-center bg-gradient-to-b from-slate-700 to-slate-500 '>
+      <div className='flex flex-col  justify-center bg-gradient-to-b from-slate-700 to-slate-500  '>
         
         <div className=' w-[50%] self-center'>
-          <h1 className=' my-5 text-lg text-center text-violet-400'>Supervision</h1>
+          <h1 className=' my-5 text-lg text-center font-mono text-violet-400'>Supervision</h1>
           <div className='flex flex-row'>
           <div className='flex flex-col content-center mr-10 w-[50%] text-center justify-center bg-white'>
                     <img className='my-1 mx-4 rounded-3xl bg-cover h-[70%]' src={saroha}/>
@@ -45,7 +45,7 @@ function Team () {
                     </div>
           </div></div>
           <div className=' w-[27%] self-center'>
-          <h1 className=' my-5 text-lg text-center text-violet-400'>General Secretary</h1>
+          <h1 className=' my-5 text-lg text-center font-mono text-violet-400'>General Secretary</h1>
           <div className='flex flex-row'>
           
           <div className='flex flex-col content-center mx-10 text-center justify-center bg-white'>
@@ -55,7 +55,7 @@ function Team () {
                     </div>
                    
           </div></div>
-            <h1 className="self-center my-5 text-lg text-violet-400">Co-Ordinaters</h1>
+            <h1 className="self-center my-5 font-mono text-lg text-violet-400">Co-Ordinaters</h1>
             <div className='grid w-[80%] self-center grid-flow-row grid-cols-3 gap-2  grid-rows-2'>
             
                     <div className='flex h-[80%] flex-col content-center text-center justify-center bg-white'>
@@ -92,7 +92,7 @@ function Team () {
             </div>
         </div>
         <div className='flex flex-col h-[120%] justify-center bg-gradient-to-b from-slate-500 to-slate-700'>
-            <h1 className="self-center mb-10 text-lg text-violet-400">Executives</h1>
+            <h1 className="self-center mb-10 text-lg font-mono text-violet-400">Executives</h1>
             <div className='grid w-[80%] self-center grid-flow-row grid-cols-4 gap-2  grid-rows-4'>
                 <div className='flex h-[70%] flex-col content-center text-center justify-center bg-white'>
                     <img className='my-1 mx-4 rounded-3xl h-[70%]' src={img}/>
