@@ -9,7 +9,7 @@ function Events() {
     <div className='w-[100%] h-[150%] flex flex-col  justify-center py-6 drop-shadow-md'>
 
         <h2 className='self-center text-2xl text-red-500 font-serif underline'>Events</h2>
-        <div className='bg-intern   bg-cover  '>
+        <div className='bg-intern   bg-cover w-[90%] self-center rounded-md  '>
         <a href='https://www.instagram.com/p/Cjp8IYUL465/'>
                 
         <div className='px-10 py-5 flex  flex-row h-[20%] border-2 mx-1 hover:scale-[103%] duration-500 '>

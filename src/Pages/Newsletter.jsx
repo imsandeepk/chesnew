@@ -3,10 +3,10 @@ import logo from "../assets/Logo.png"
 
 function Newsletter() {
   return (
-    <div className='w-[%] h-[140%] flex flex-col justify-center py-6 content-center   drop-shadow-md'>
+    <div className='w-[100%] h-[140%] flex flex-col justify-center py-6 content-center   drop-shadow-md'>
         <h2 className='self-center text-2xl font-serif underline text-red-500 '>Newsletter</h2>
         
-        <div className='px-10 py-5 flex flex-col h-[20%] border-2 mx-1 bg-newsletter bg-cover hover:scale-[103%] duration-500 '>
+        <div className='px-10 py-5 flex flex-col w-[90%] border-2 mx-1 align-middle self-center rounded-md bg-newsletter bg-cover hover:scale-[103%] duration-500 '>
         <h1 className=' text-center text-lg text-violet-400'>For the month of November</h1>
           <div className='flex flex-row font-serif font-medium'>
           <div>

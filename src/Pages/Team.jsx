@@ -25,12 +25,12 @@ import saroha from "../assets/photos/saroha.png"
 function Team () {
   return (
     
-    <div className=' w-[100%] h-[100%] flex-col justify-center  '>
+    <div className=' w-[100%]  h-[100%] flex-col justify-center  '>
       <h1 className='justi-center text-center text-2xl text-red-500 font-serif underline'>Our Team </h1>
             
-      <div className='flex flex-col  justify-center bg-gradient-to-b from-slate-700 to-slate-500  '>
+      <div className='flex flex-col   justify-center bg-gradient-to-b from-slate-700 to-slate-500  '>
         
-        <div className=' w-[50%] self-center'>
+        <div className=' w-[50%] self-center '>
           <h1 className=' my-5 text-lg text-center font-mono text-violet-400'>Supervision</h1>
           <div className='flex flex-row'>
           <div className='flex flex-col content-center mr-10 w-[50%] text-center justify-center bg-white'>
