@@ -10,6 +10,7 @@ module.exports = {
         "newsletter" : "url('/src/assets/newsletter.jpeg')",
         "bg" : "url('/src/assets/bg.jpeg')",
         "resources" : "url('/src/assets/resources.jpeg')",
+        
       })
     },
   },
